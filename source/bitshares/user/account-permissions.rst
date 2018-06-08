@@ -93,7 +93,7 @@ to 17 or increase the threshold to 99%.
 
 With the threshold and weights, we now have more flexibility over our funds, or
 more precisely, we have more *control*. For instance, we can have separate
-weights for different people. Let's assume Alice wants to secure here funds
+weights for different people. Let's assume Alice wants to secure her funds
 against theft by a multi-signature scheme but she does not want to hand over too
 much control to her friends. Hence, we create an authority similar to:
 
